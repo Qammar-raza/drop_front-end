@@ -1,0 +1,7 @@
+.label-vendor {
+  width: 100px;
+}
+
+.label-vendor * {
+  font-size: 14px;
+}
